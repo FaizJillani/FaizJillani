@@ -1,6 +1,6 @@
 # Faiz Jillani
 
-**AI Engineer · Full-Stack Developer · WhatsApp Bot Specialist**
+**Agentic AI Engineer · LLM & RAG Systems Architect · Full-Stack Developer**
 
 Based in Multan, Pakistan. I build production-grade AI agents, WhatsApp automation systems, and enterprise SaaS platforms at [Erha Technologies](https://www.erhatechnologies.com).
 
